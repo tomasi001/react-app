@@ -1,6 +1,6 @@
 # My React App
 
-Here is a website i made to talk about why I would be interested to work at SovTech.
+Here is a website i made to talk about why I would be interested in working at SovTech.
 
 ### Usage
 
